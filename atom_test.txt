@@ -1,3 +1,4 @@
+init
 atom github.md
 bash atom: command not found
 git add
