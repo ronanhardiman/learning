@@ -3,3 +3,5 @@ atom github.md
 bash atom: command not found
 git add
 git commit
+
+http://www.aswifter.com/2015/06/14/learn-markdown/
